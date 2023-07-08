@@ -15,6 +15,7 @@
     http://localhost:8050
 # Usage
 1. Upload a JWST image by dragging and dropping or selecting a file
+<br/>Example Image can be downloaded from https://www.jwst.nasa.gov/content/webbLaunch/assets/images/images2023/jul-06-23-STScI-01GYZAMVX05Y56EZW6NK93S2FQ-8k.jpg
 2. Explore the spectrum analysis graph to visualize the intensity distribution
 3. Compare the original and filtered images to examine image enhancements
 4. Analyze the detected stars and their positions in the stars table
